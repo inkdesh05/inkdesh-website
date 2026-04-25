@@ -150,7 +150,7 @@ export default function Home() {
         <h2 className="text-2xl font-semibold">Connect With Us</h2>
 
         <a
-          href="https://instagram.com/manansinh32"
+          href="https://instagram.com/inkdesh05"
           target="_blank"
           className="block mt-4 font-semibold"
         >
